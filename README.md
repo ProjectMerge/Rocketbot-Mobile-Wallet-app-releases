@@ -1,2 +1,2 @@
 # Rocketbot-app-releases
-Releases for Rocketbot app
+Android & iOS binaries for Rocketbot Mobile Wallet app
